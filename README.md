@@ -1,1 +1,1 @@
-# fake-news-detection-using-machine-learning
+# Fake News Detection Using Machine Learning
