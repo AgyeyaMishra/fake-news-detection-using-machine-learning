@@ -44,8 +44,8 @@ There are two delimitations associated with our project:
 
 There are basically two types of fake news:
 
-1. Visual based type: Visual based are mainly photoshopped images, and videos which are posted on various social media platforms.
-2. Linguistic based type: Linguistic based are mainly the manipulation of text and string content. These issues are with blogs, news, and emails.
+1. **Visual based type**: Visual based are mainly photoshopped images, and videos which are posted on various social media platforms.
+2. **Linguistic based type**: Linguistic based are mainly the manipulation of text and string content. These issues are with blogs, news, and emails.
 
 ---
 
