@@ -1,6 +1,6 @@
 # Fake News Detection Using Machine Learning
 
-This is a course project done for **Department of Computer Engineering, Delhi Technological University (formerly, Delhi College of Engineering)** for a course in **Machine Learning (Course Code - CO327)** for the **Fall Semester**.
+This is a course project done for **Department of Computer Engineering, Delhi Technological University (formerly, Delhi College of Engineering)** for a course in **Machine Learning (Course Code - CO327)** for the **Fall Semester 2021**.
 
 ---
 
