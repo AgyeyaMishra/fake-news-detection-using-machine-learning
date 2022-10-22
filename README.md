@@ -6,12 +6,12 @@ This is a course project done for **Department of Computer Engineering, Delhi Te
 
 # Introduction
 
-- Fake news exist way before from social media but it was multifold when social media was introduced.
-- Fake news is a piece of news designed to deliberately spread hoaxes, propaganda, and disinformation.
-- Fake news stories usually spread through social media sites like Facebook, Twitter, etc.
+- Fake news existed way before social media but was multifold when social media was introduced.
+- Fake news is a piece of news designed to spread hoaxes, propaganda, and disinformation deliberately.
+- Fake news stories are usually spread through social media sites like Facebook, Twitter, etc.
 - People are profiting by publishing fake news online.
 - In general, the goal is profiting through clickbaits. 
-- Such clickbaits lure users and entice curiosity with flashy headlines or designs to click links to increase advertisements revenues.
+- Such clickbaits lure users and entice curiosity with flashy headlines or designs to click links to increase advertisement revenues.
 
 ---
 
@@ -20,14 +20,14 @@ This is a course project done for **Department of Computer Engineering, Delhi Te
 Some of the major problems related to fake news that are generally faced by people are:
 
 1. By clicking on a clickbait, users are led to a page that contains false information.
-2. Fake news influences people’s perception.
-3. The risk of fake news has become a global problem that even major tech companies like Facebook and google are struggling to solve. It can be difficult to determine whether a text is factual without additional context and human judgement.
+2. Fake news influences people’s perceptions.
+3. The risk of fake news has become a global problem that even major tech companies like Facebook and Google are struggling to solve. It can be difficult to determine whether a text is factual without additional context and human judgement.
 
 ---
 
 # Purpose 
 
-- This project aims to develop a method for detecting and classifying the news stories using ```Natural Language Processing```.
+- This project aims to develop a method for detecting and classifying news stories using ```Natural Language Processing```.
 - The main goal is to identify fake news, which is a classic text classification issue.
 - We gathered our data, pre-processed the text, and translated our articles into supervised model features.
 - Our goal is to develop a model that classifies a given news article as either fake or true.
